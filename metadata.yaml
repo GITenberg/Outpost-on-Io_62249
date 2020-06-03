@@ -1,0 +1,41 @@
+_repo: Outpost-on-Io_62249
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Paul, Frank R. (Frank Rudolph)
+    alias: Paul, Frank Rudolph
+    birthdate: 1884
+    deathdate: 1963
+    gutenberg_agent_id: '31333'
+    url: http://www.gutenberg.org/2009/agents/31333
+creator:
+  author:
+    agent_name: Brackett, Leigh
+    aliases:
+    - Brackett, Leigh Douglass
+    - Hamilton, Leigh Brackett
+    birthdate: 1915
+    deathdate: 1978
+    gutenberg_agent_id: '25398'
+    url: http://www.gutenberg.org/2009/agents/25398
+    wikipedia: https://en.wikipedia.org/wiki/Leigh_Brackett
+description: ''
+gutenberg_issued: '2020-05-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62249'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Human-alien encounters -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Science fiction'
+- !lcsh 'War stories'
+- !lcsh 'Io (Satellite) -- Fiction'
+- !lcsh 'Prisoners -- Fiction'
+- !lcsh 'Short stories'
+- GITenberg
+title: Outpost on Io
+url: http://www.gutenberg.org/ebooks/62249
