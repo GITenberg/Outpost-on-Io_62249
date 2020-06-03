@@ -1,5 +1,5 @@
 _repo: Outpost-on-Io_62249
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Paul, Frank R. (Frank Rudolph)
@@ -8,6 +8,9 @@ contributor:
     deathdate: 1963
     gutenberg_agent_id: '31333'
     url: http://www.gutenberg.org/2009/agents/31333
+covers:
+- cover_type: archival
+  image_path: 62249-h/images/cover.jpg
 creator:
   author:
     agent_name: Brackett, Leigh
@@ -20,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/25398
     wikipedia: https://en.wikipedia.org/wiki/Leigh_Brackett
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/62249#Outpost-on-Io
 gutenberg_issued: '2020-05-27'
 gutenberg_type: Text
 identifiers:
